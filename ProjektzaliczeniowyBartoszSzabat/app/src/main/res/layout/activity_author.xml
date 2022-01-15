@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Author">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:paddingLeft="30px"
+        android:paddingTop="500px"
+        android:paddingRight="30px">
+
+        <TextView
+            android:id="@+id/AuthorText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/AuthorText"
+            android:textAlignment="center"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnSeeAuthor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50px"
+            android:onClick="printSth"
+            android:text="@string/btnSeeAuthor" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekt zaliczeniowy - Bartosz Szabat</string>
+    <string name="CalculateResult1">"Potrzebujesz : "</string>
+    <string name="CalculateResult2">ml. oleju.</string>
+    <string name="btnResult">Oblicz</string>
+    <string name="btnInsertName">Wciśnij, aby wprowadzić imię</string>
+    <string name="HelloText">Witaj</string>
+    <string name="btnAcceptName">Akceptuj</string>
+    <string name="btnHistory">Historia motocykli</string>
+    <string name="btnHello">Przywitaj się</string>
+    <string name="btn2t">Dwusuwy</string>
+    <string name="btnMotorcycle">Lista motocykli</string>
+    <string name="btnBeMotorcyclist">Zostań motocyklistą</string>
+    <string name="btnTZR125">Yamaha TZR 125</string>
+    <string name="btnR1">Yamaha R1</string>
+    <string name="btnGSXR1000">Suzuki GSXR1000</string>
+    <string name="btnCBR600">Honda CBR600</string>
+    <string name="TZR125">Yamaha TZR125 to dwusuwowy motocykl sportowy o pojemności 125 cm3 (7,6 cu in) wyprodukowany na rynek europejski i południowo-wschodniej Azji, który wykorzystuje YPVS. TZR125 był produkowany od 1987 roku i obejmował dwie generacje aż do końca lat 90., z których każda zawierała kilka wariantów i podwariantów.</string>
+    <string name="R1">Yamaha YZF-R1 – japoński motocykl klasy superbike wyprodukowany przez Yamaha Motor Company, zaprezentowany po raz pierwszy na targach EICMA w Mediolanie pod nazwą kodową \"08R\".  YZF-R1 to bardzo lekki (177 kg), a zarazem bardzo mocny (150 KM) motocykl skonstruowany od podstaw w celu podbicia rynku bezkompromisowych motocykli sportowych oraz zastąpienia przestarzałego i nie cieszącego się zbytnią popularnością motocykla Yamaha YZF 1000 R Thunderace.  Na potrzeby tego modelu skonstruowano zupełnie nowy, ważący zaledwie 65,3 kg silnik R4 – o 9,5 kg lżejszy, a zarazem krótszy od silnika zastosowanego w Thunderace. Z początku planowano użycie silnika V4, lecz ze względu na niższy oraz bardziej wysunięty do przodu środek masy YZF-R1 otrzymał silnik rzędowy.  W 2009 roku YZF-R1 przeszedł poważną zmianę. Wprowadzono całkowicie nowy silnik typu big bang, wywodzący się w prostej linii od motocykla YZF-M1, którym jeździli zawodnicy Yamaha w MOTO GP. Jednostkę napędową wyposażono w wał korbowy o kącie rozwarcia czopów 90º zapewniający pracę cylindrów w kolejności 270º – 180º – 90º – 180º co zapewniało liniowy przyrost mocy i niemal całkowite zrównoważenie niekorzystnych momentów bezwładności w silniku.</string>
+    <string name="GSXR1000">Suzuki GSX-R1000 to sportowy motocykl z serii motocykli Suzuki GSX-R. Został wprowadzony w 2001 roku, aby zastąpić GSX-R1100 i jest napędzany chłodzonym cieczą czterocylindrowym, czterosuwowym silnikiem o pojemności 988 cm3.</string>
+    <string name="CBR600">Honda CBR 600F – sportowo-turystyczny motocykl Hondy produkowany od 1986 do 2006 roku i produkowany później od 2011 roku. Motocykle zostały wyposażone w czterocylindrowe, rzędowe silniki czterosuwowe chłodzone cieczą z szesnastozaworową głowicą. Model produkowany był w czterech generacjach oznaczanych literami F1 - F4. Bliźniaczy model sportowy - CBR 600RR produkowany od 2003 roku zastąpił w roku 2006 model CBR 600 F4i. Honda wprowadziła ponownie model CBR 600F w 2011 roku, jako uzupełnienie oferty o model sportowy z uniwersalnymi atrybutami.</string>
+    <string name="HistoryText">Motocykl – jedno- lub dwuśladowy mechaniczny pojazd drogowy o masie własnej do 400 kg.  Według Prawa o ruchu drogowym jest to pojazd samochodowy zaopatrzony w silnik spalinowy, dwukołowy lub z bocznym wózkiem – wielośladowy. Określenie to obejmuje również pojazd trójkołowy o symetrycznym rozmieszczeniu kół.</string>
+    <string name="OilRatio">1:</string>
+    <string name="PetrolLiters">Ilość paliwa</string>
+    <string name="inputRatio">Proporcje</string>
+    <string name="inputPetrol">"Paliwo "</string>
+    <string name="inputName">Wprowadź imię</string>
+    <string name="btnSeeAuthor">Kliknij, aby zobaczyć</string>
+    <string name="AuthorText">Jeśli chcesz poznać autora aplikacji, kliknij w przycisk poniżej</string>
+    <string name="btnNameofAuthor">Bartosz Szabat</string>
+    <string name="btnAuthor">Autor</string>
+    <string name="btnBeMotorcyclistToast">Zostałeś motocyklistą!</string>
+</resources>

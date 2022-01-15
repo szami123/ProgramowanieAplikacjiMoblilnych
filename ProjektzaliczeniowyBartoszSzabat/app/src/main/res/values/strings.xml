@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Final project - Bartosz Szabat</string>
+
+    <string name="OilRatio">1:</string>
+    <string name="PetrolLiters">Amount of fuel</string>
+    <string name="inputRatio">Ratio</string>
+    <string name="inputPetrol">Petrol</string>
+
+    <string name="CalculateResult1">You need : </string>
+    <string name="CalculateResult2">cc. oil.</string>
+
+    <string name="btnResult">Calculate</string>
+
+    <string name="btnInsertName">Click to insert your name</string>
+    <string name="HelloText">Welcome</string>
+
+    <string name="btnAcceptName">Accept</string>
+    <string name="inputName">Input name</string>
+
+    <string name="btnHistory">Motorcycle History</string>
+    <string name="btnHello">Hello</string>
+    <string name="btn2t">Two Stroke</string>
+    <string name="btnMotorcycle">Motorcycle list</string>
+    <string name="btnAuthor">Author</string>
+
+    <string name="HistoryText">A motorcycle, often called a motorbike, bike, cycle, or (if three-wheeled) trike, is a two- or three-wheeled motor vehicle. Motorcycle design varies greatly to suit a range of different purposes: long-distance travel, commuting, cruising, sport (including racing), and off-road riding. Motorcycling is riding a motorcycle and being involved in other related social activity such as joining a motorcycle club and attending motorcycle rallies.</string>
+    <string name="btnBeMotorcyclist">Be motorcyclist</string>
+    <string name="btnBeMotorcyclistToast">You are motorcyclist now!</string>
+
+    <string name="btnTZR125">Yamaha TZR 125</string>
+    <string name="btnR1">Yamaha R1</string>
+    <string name="btnGSXR1000">Suzuki GSXR1000</string>
+    <string name="btnCBR600">Honda CBR600</string>
+
+    <string name="TZR125">The Yamaha TZR125 is a two-stroke 125 cc (7.6 cu in) sports motorcycle made for the European and South East Asian markets which uses the YPVS. The TZR125 was produced from 1987 and spanned two generations until the late 1990s each with a number of variants and sub variants.</string>
+    <string name="R1">Yamaha YZF-R1 - Japanese superbike manufactured by Yamaha Motor Company, presented for the first time at the EICMA fair in Milan under the code name \"08R\".  The YZF-R1 is a very light (177 kg) and at the same time very powerful (150 HP) motorcycle built from scratch to conquer the market of uncompromising sports bikes and replace the outdated and not very popular Yamaha YZF 1000 R Thunderace motorcycle.  For this model, a completely new R4 engine was constructed, weighing only 65.3 kg - 9.5 kg lighter and shorter than the engine used in the Thunderace. Initially, it was planned to use a V4 engine, but due to the lower and more forward center of mass, the YZF-R1 received an in-line engine.  In 2009, the YZF-R1 underwent a major change. A completely new big bang engine was introduced, derived in a straight line from the YZF-M1 motorcycle used by Yamaha riders in the MOTO GP. The drive unit was equipped with a crankshaft with a journal angle of 90 ° ensuring cylinder operation in the order of 270 ° - 180 ° - 90 ° - 180 °, which ensured linear power increase and almost complete balance of unfavorable moments of inertia in the engine.</string>
+    <string name="GSXR1000">The Suzuki GSX-R1000 is a sport bike from Suzuki\'s GSX-R series of motorcycles. It was introduced in 2001 to replace the GSX-R1100 and is powered by a liquid-cooled 988 cc (60.3 cu in) inline four-cylinder, four-stroke engine.</string>
+    <string name="CBR600">The Honda CBR600F is a CBR series 600 cc (36.6 cu in) four-cylinder sport bike made by Honda. The first model of the CBR600F was sold from 1987 to 1990 and is known in the US as the Hurricane. In Austria and Mexico, a smaller version, called CBR500F, was offered. The subsequent models are designated as CBR600F2, F3, F4 and F4i respectively. In 2011, Honda released a more modern model with the same name. The original CBR600F along with the CBR750F and CBR1000F was Honda\'s first inline four-cylinder, fully-faired sport bike. The style was said to be influenced by a brief European trend toward a smooth and completely enclosed fairing such as in the Ducati Paso.</string>
+
+    <string name="btnSeeAuthor">Click to see</string>
+    <string name="AuthorText">If you want know about author this application, click button</string>
+    <string name="btnNameofAuthor">Bartosz Szabat</string>
+
+
+    <string-array name="ratio2T">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+    </string-array>
+
+
+</resources>

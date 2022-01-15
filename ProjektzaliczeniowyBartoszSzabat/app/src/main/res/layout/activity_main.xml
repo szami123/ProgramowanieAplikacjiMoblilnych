@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/btnHistory"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:insetLeft="20dp"
+            android:insetRight="20dp"
+            android:text="@string/btnHistory" />
+
+        <Button
+            android:id="@+id/btnBePetrolHead"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:insetLeft="20dp"
+            android:insetRight="20dp"
+            android:text="@string/btnHello" />
+
+        <Button
+            android:id="@+id/btnTwoStroke"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:insetLeft="20dp"
+            android:insetRight="20dp"
+            android:text="@string/btn2t" />
+
+        <Button
+            android:id="@+id/btnMotorcycle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:insetLeft="20dp"
+            android:insetRight="20dp"
+            android:text="@string/btnMotorcycle" />
+
+        <Button
+            android:id="@+id/btnAuthor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30px"
+            android:insetLeft="20dp"
+            android:insetRight="20dp"
+            android:text="@string/btnAuthor" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
